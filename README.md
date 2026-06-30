@@ -1,4 +1,12 @@
-## Hi there 👋
+Special-methods 
+Constructor
+String representation
+Length method
+Operator
+Membership testing
+Iteration support
+Boolean evaluation
+
 
 <!--
 **Tracy-Umat/Tracy-Umat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
